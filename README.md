@@ -6,8 +6,8 @@ Django as the backend
 Angular as the front-end
 mysql as the database while using a local server
 
-Firstly you have to enter your virtual environment that is venv
+First enter this command pip install -r requirements.txt
+To install all the files and libraries
 
-Then enter this command pip install -r requirements.txt
-
+Then you have to enter your virtual environment that is venv
 
