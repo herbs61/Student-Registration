@@ -3,7 +3,9 @@ This Student-Registration site helps student create,update and delete their Regi
 
 It is made of technologies like:
 Django as the backend
+
 Angular as the front-end
+
 mysql as the database while using a local server
 
 First enter this command pip install -r requirements.txt
